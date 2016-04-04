@@ -35,6 +35,8 @@
 #include "cinder/Vector.h"
 #include "cinder/Filesystem.h"
 
+#include "boost/noncopyable.hpp"
+
 // forward declarations
 namespace cinder {
 	typedef std::shared_ptr<class DataSource> DataSourceRef;

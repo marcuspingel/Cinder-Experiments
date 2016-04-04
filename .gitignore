@@ -22,6 +22,8 @@ lib/msw/x64/cinder*.pdb
 *.ncb
 *.sdf
 *.opensdf
+*.VC.db
+*.VC.VC.opendb
 Debug/
 Release/
 ipch/
